@@ -1,0 +1,19 @@
+{
+  "name": "testexpress",
+  "version": "1.0.0",
+  "description": "simple test with express module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jhod@vzu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^2.6.1",
+    "express": "*",
+    "express-validator": "^5.2.0",
+    "mongojs": "^2.6.0",
+    "nodemon": "^1.18.3"
+  }
+}
